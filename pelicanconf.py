@@ -1,6 +1,6 @@
-AUTHOR = 'Brian Rossa'
+joAUTHOR = 'Brian Rossa'
 SITENAME = 'Cöa Crü'
-SITESUBTITLE = 'A metal fork of the Coastal Cruisers Bicycle Club -- <i>for radical adventures!</i>'
+SITESUBTITLE = 'The heavy metal fork of the Coastal Cruisers Bicycle Club -- <i>for radical adventures!</i>'
 SITEURL = ""
 
 PATH = "content"
@@ -20,7 +20,8 @@ AUTHOR_FEED_RSS = None
 LINKS = (
     ("CCBC", "https://coastalcruisers.net/"),
     ("Ride w/ GPS", "https://ridewithgps.com"),
-    ("Github", "https://github.com/brianthelion/coacru.bike")
+    ("Github", "https://github.com/brianthelion/coacru.bike"),
+    ("Real Bikes", "https://realbikesenglewood.com"),
 )
 
 # Social widget
